@@ -1,4 +1,5 @@
-# JVMTI-Plugin-Example
+
+# JVMTI-Instrumentation-Example 
 This repository is a base JVMTI plugin example (Credit to PL if they want it- they know who they are) this is just an example of how to rewrite certain functions from the JVM perspective. 
 
 ## About: 
